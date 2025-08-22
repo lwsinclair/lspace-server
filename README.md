@@ -1,3 +1,5 @@
+[![MSeeP.ai Security Assessment Badge](https://mseep.net/pr/lspace-io-lspace-server-badge.png)](https://mseep.ai/app/lspace-io-lspace-server)
+
 # Lspace API & MCP Server
 
 > "Books bend space and time... You stray into Lspace at your peril." - Terry Pratchett (Guards! Guards!)
